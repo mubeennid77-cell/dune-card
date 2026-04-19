@@ -71,7 +71,7 @@ line-height:1.5;
 .btn{
 display:block;
 text-align:center;
-background:#ff7300;
+background:#f5a669
 color:#fff;
 text-decoration:none;
 padding:18px;
@@ -83,9 +83,9 @@ transition:.3s;
 }
 
 .btn:hover{
-background:#f09e60;
+background:#f5a669
 }
 
 .btn i{
-align-center:10px;
+align-center:5px;
 }
